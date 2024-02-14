@@ -1,4 +1,4 @@
-discord :  mrcryptoo
+discord : mrcryptoo
 <img alt="Aleo" width="1412" src="https://biaupload.com/do.php?imgf=org-1a286c7c34641.jpg">
 
 ## Aleo-deploy-for-mrcryptoo
